@@ -3,7 +3,7 @@
 Hi! I'm Yusuf, a fourth-year Computer Science student at Concordia University, deeply passionate about the intersection of software development and finance. :)
 
 I'm currently building a financial mobile application, with a backend powered by Spring Boot and PostgreSQL,
-and AI-driven features to enhance insights and decision-making. Stay tuned!
+with AI-driven features to enhance insights and decision-making. Stay tuned!
 
 
 
